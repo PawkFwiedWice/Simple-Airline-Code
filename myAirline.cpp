@@ -1,4 +1,4 @@
-//Timothy Ng
+//Tim
 //Feb 14 2018
 //Code takes several user inputs to calculate simple airfare
 //Practice using switch statements
